@@ -1,6 +1,6 @@
 # Diwali_Sales_Analysis
 
-This is a beginner-level data analysis project on Diwali sales using Python and its libraries.
+This is a data analysis project on Diwali sales using Python and its libraries.
 The project explores sales patterns based on customer demographics, product categories, and purchase amounts.
 
 Features
